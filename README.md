@@ -1,3 +1,2 @@
 # RService
-
-A description of this package.
+Combine network abstraction framework
